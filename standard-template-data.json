@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-05-11T07:26:15.754652762Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-05-11T07:46:57.626021890Z",
     "templateType": "full_banner_wipe",
     "propertyId": "91cce127-6afe-4a27-98fa-6568d7277862",
     "homepageId": "ca5b49eb-3f07-4906-a536-5abc9600a52e"
@@ -2116,7 +2116,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "6dc64c27-1162-4f5a-949e-67f729cc7e61",
@@ -2126,9 +2126,53 @@
                     "isSelected": true,
                     "blockId": null
                   }
-                ]
+                ],
+                "description": " "
               },
-              "about": [ ]
+              "about": [
+                {
+                  "title": "리모델링 완료한 쾌적한 객실",
+                  "images": [
+                    {
+                      "id": "f75fa53c-7658-40a2-9c93-4bc47040304c",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/main_about/1778484512825-d49dh8s4x5.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true
+                    }
+                  ],
+                  "blockId": "5b4388e2-52fb-4d7e-b977-ca6ea1e83117",
+                  "description": "4월 리모델링 완료로 더욱 깔끔하고 \n쾌적해진 객실과 함께, \n전 객실 북한강 리버뷰의 \n편안한 휴식을 제공합니다."
+                },
+                {
+                  "title": "북한강 수상레저 & 워터파크",
+                  "images": [
+                    {
+                      "id": "c4948c5b-df2b-43c8-8e92-b7c13b4b90eb",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/main_about/1778484689711-7lg3b5g246.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true
+                    }
+                  ],
+                  "blockId": "05767986-3d9b-40b5-8ed1-b4b25630a15f",
+                  "description": "다양한 빠지와 수상레저를 즐기며 \n시원한 워터파크와 함께 \n액티비티와 휴식을 \n동시에 경험할 수 있는 공간"
+                },
+                {
+                  "title": "야외 수영장",
+                  "images": [
+                    {
+                      "id": "abb22649-3a98-498b-80a1-eda8eb54147f",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/main_about/1778484734435-r1jpvqa70d.jpg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true
+                    }
+                  ],
+                  "blockId": "32b50645-13e7-49cd-8cf7-48c57d4ff5f7",
+                  "description": "야외 수영장이 마련되어 있어 \n무더운 여름철 시원한 물놀이와 함께 \n여유로운 휴식을 즐기실 수 있습니다."
+                }
+              ]
             }
           ]
         },
