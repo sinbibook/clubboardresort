@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-05-11T06:21:00.662941371Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-05-11T07:25:52.478620924Z",
     "templateType": "full_banner_wipe",
     "propertyId": "91cce127-6afe-4a27-98fa-6568d7277862",
     "homepageId": "ca5b49eb-3f07-4906-a536-5abc9600a52e"
@@ -80,7 +80,56 @@
         "description": "초대형 워터파크&워터 슬라이드",
         "usageGuide": "- 야외 수영장 (하절기 운영) : 초대형 워터파크",
         "displayOrder": 0,
-        "images": [ ]
+        "images": [
+          {
+            "id": "a39e757b-badf-4bc4-a23b-5d8b153844e4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a793ecbf-a626-4a6e-b201-d88290d9a09c/main/1778482427012-bjkaanpljb.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0ea32f4f-b469-44dd-8b31-fa5959e3dd9e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a793ecbf-a626-4a6e-b201-d88290d9a09c/main/1778482649348-7yln4lynlb.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "190ee80b-e105-4d73-b2a0-1f20757b60a2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a793ecbf-a626-4a6e-b201-d88290d9a09c/main/1778482427009-7dx26zm03w.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2db2d6dc-fc3d-4163-8452-97b315f569ce",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a793ecbf-a626-4a6e-b201-d88290d9a09c/main/1778482649368-9exuk3i2s9.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "982db56b-0efb-4411-970c-d739422dd617",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a793ecbf-a626-4a6e-b201-d88290d9a09c/main/1778482649366-kcwh5xfyxu.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "53367479-6a32-4c4e-afe3-2616e99e4eff",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/a793ecbf-a626-4a6e-b201-d88290d9a09c/main/1778482426990-sel5mybnl9.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "5f66bb62-d69c-426f-b9a9-de64d18a81c5",
@@ -88,15 +137,24 @@
         "description": "신나는 BBQ 파티~!",
         "usageGuide": "[야외바베큐]\n- 제공 구성: 숯불, 그릴 , 철망 , 가위, 집게 , 장갑, 1회용 수저, 종이컵, 소주컵, 접시류\n- 이용 요금: 2인 기준 20,000원 (1인 추가 5,000원) (1박기준/현장결제)\n- 이용 시간: 12:00 ~ 23:00 \n- 숯 제공 시간: 12:00 ~ 20:00\n※ 현장 결제\n※ 숯/그릴 개인지참 불가",
         "displayOrder": 1,
-        "images": [ ]
-      },
-      {
-        "id": "1b772db7-ff29-47b5-8395-5116ac4cee97",
-        "name": "애견동반",
-        "description": "애견동반 정보를 안내드립니다.",
-        "usageGuide": "- 애견동반을 원할 경우 사전 문의 및 상담 필수\n- 객실마다 추가요금 상이함 (펜션문의) / 대형견 불가\n- 최대 마릿수 제한없음\n- 침구류 특수세탁비 추가발생 25,000원\n※ 현장 결제",
-        "displayOrder": 2,
-        "images": [ ]
+        "images": [
+          {
+            "id": "18d523b3-70a2-480b-8a65-d135f829c301",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5f66bb62-d69c-426f-b9a9-de64d18a81c5/main/1778482492259-nmwkcc6vj0.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "630c95e8-5f99-4cca-9c5f-dfe57a9a908e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5f66bb62-d69c-426f-b9a9-de64d18a81c5/main/1778482492257-c5fpca4ncg.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       },
       {
         "id": "874c16a4-3b9b-47e6-858d-8b491c04d053",
@@ -104,7 +162,32 @@
         "description": "가평 아레나 X 클럽보드리조트 올인원 패키지",
         "usageGuide": "[아레나X클럽보드 수상레저 패키지]\n- 패키지 구성 : 워터파크+수영장데이 이용권+워터슬라이드+애프터파티 입장권+구명조끼+테이블이용권\n- 비용 : 유료(구성에 따라 상이함)\n※ 펜션으로 문의 및 예약 필수\n\n▶ 패키지 1 : 숙박+수상레저(3종)+무제한 BBQ+풀파티\n- 일~목 :  90,000원/1인\n- 금/토 : 110,000원/1인\n\n▶ 패키지 2 : 숙박+수상레저(6종)+무제한BBQ+풀파티\n- 일~목 :  100,000원/1인\n- 금/토 : 120,000원/1인\n\n▶ 패키지 3 : 숙박+수상레저(3시간 무제한)+무제한BBQ+풀파티\n- 일~목 :  110,000원/1인\n- 금/토 : 130,000원/1인\n\n▶ 패키지 3 : 숙박+수상레저(3시간 무제한)+무제한BBQ+풀파티+생맥주 무제한(6:30~8:30)\n- 일~목 :  120,000원/1인\n- 금/토 : 140,000원/1인\n",
         "displayOrder": 3,
-        "images": [ ]
+        "images": [
+          {
+            "id": "ff7181d2-5ebb-4d3b-8f08-34b5ecabaafb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/874c16a4-3b9b-47e6-858d-8b491c04d053/main/1778482650466-du6s3c5yoj.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ef0d18b7-1f8d-4327-98d1-300c6b6622ef",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/874c16a4-3b9b-47e6-858d-8b491c04d053/main/1778482650485-uszgw3fyc9.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "04e9dbd3-d3d0-444a-b642-7653f10d2d5c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/874c16a4-3b9b-47e6-858d-8b491c04d053/main/1778482650484-7wcifrqx23.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -156,8 +239,98 @@
     },
     "images": [
       {
-        "thumbnail": [ ],
-        "exterior": [ ],
+        "thumbnail": [
+          {
+            "id": "659796fb-4d93-4069-8e92-92b44892e98b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/91cce127-6afe-4a27-98fa-6568d7277862/thumbnail/1778482380279-566oe7mzyu.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
+        "exterior": [
+          {
+            "id": "b734a982-efb9-44d6-be84-966917d9617d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/91cce127-6afe-4a27-98fa-6568d7277862/exterior/1778482380177-pvhldxzw08.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "3a03fa76-4c25-4114-be8f-d6c225413d45",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/91cce127-6afe-4a27-98fa-6568d7277862/exterior/1778482380185-uqppwcuh70.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "04c687d7-35dc-468c-a0f6-f7ee4d603500",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/91cce127-6afe-4a27-98fa-6568d7277862/exterior/1778482380215-5zxqdzqq4o.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "3ab8bd84-ec9a-4bbe-adb1-fdd3ade64d60",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/91cce127-6afe-4a27-98fa-6568d7277862/exterior/1778482380238-akld6dkliy.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "5ed69341-a289-4061-9325-95c08855dcc0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/91cce127-6afe-4a27-98fa-6568d7277862/exterior/1778482380243-tvn37x20m4.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e12582d6-94b8-48a1-a213-df81d5c3070c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/91cce127-6afe-4a27-98fa-6568d7277862/exterior/1778482380241-xiwoeidn3v.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "cd1ad829-fc15-4034-9a04-4150dad6cc31",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/91cce127-6afe-4a27-98fa-6568d7277862/exterior/1778482380245-tg5e1cao3p.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ab0d64e2-118f-4c22-9ee4-b4a60cc19244",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/91cce127-6afe-4a27-98fa-6568d7277862/exterior/1778482380367-6pbypv9nvl.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ca6ff36d-b083-452b-8a99-3375226403c2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/91cce127-6afe-4a27-98fa-6568d7277862/exterior/1778482380179-j6x3ezw7v4.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c9b3846b-18d3-451e-b6cd-2f5b9a4f25d0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/91cce127-6afe-4a27-98fa-6568d7277862/exterior/1778482380299-a5llyue6d2.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ],
         "surrounding": [ ],
         "commonArea": [ ]
       }
@@ -1829,14 +2002,81 @@
                 "description": " "
               },
               "essence": {
-                "title": "",
-                "images": [ ],
+                "title": "가평 아레나 X 클럽보드리조트",
+                "images": [
+                  {
+                    "id": "0f568e99-02b7-4d03-a469-7653ab4146da",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/index_essence/1778484148431-hmphgigz6a.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "53e7303e-ed52-48d1-8076-580ac6971fcf",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/index_essence/1778484148459-cbznl77nww.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "4ade41b5-a143-421a-8607-a9d533e15e05",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/index_essence/1778484148464-hvvxhfv2s1.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
-                "mediaType": "image"
+                "mediaType": "image",
+                "description": "전 객실에서 북한강 통유리 리버뷰를 감상할 수 있으며, \n시원하게 물놀이를 즐길 수 있는 야외수영장과 \n북한강 전경을 바라보며 야외 BBQ파티와 \n생맥주 펍에서 에프터파티를 함께 즐길 수 있는 \n가평 클럽보드리조트는 \n4월 리모델링을 완료해 \n더욱 쾌적한 객실 컨디션을 제공합니다."
               },
               "gallery": {
                 "title": "Preview",
-                "images": [ ],
+                "images": [
+                  {
+                    "id": "393f8872-7405-4428-8ef9-2a72f987dbb2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/index_gallery/1778482817015-tkwu76w9dl.jpg",
+                    "sortOrder": 0,
+                    "description": "야외수영장",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "968e7df6-45b4-4734-ab9b-63cad2ecc540",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/index_gallery/1778482817006-vkbtllizpf.jpg",
+                    "sortOrder": 1,
+                    "description": "수상레저",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "22433f4f-588b-4698-abe6-86bf5a17cd44",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/index_gallery/1778482817012-hq0mx6p4fa.jpg",
+                    "sortOrder": 2,
+                    "description": "야외바베큐",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "b0643224-2d38-4ae3-b1fd-5058d782ce1f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/index_gallery/1778482816985-3oaamu123f.jpg",
+                    "sortOrder": 3,
+                    "description": "축구장",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "12ad6240-8345-4388-b408-d3471f39d50d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/index_gallery/1778482817025-s6cd0lqr4d.jpg",
+                    "sortOrder": 4,
+                    "description": "객실내부",
+                    "isSelected": true,
+                    "blockId": null
+                  }
+                ],
                 "videos": [ ],
                 "mediaType": "image"
               },
@@ -1853,7 +2093,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "오시는 길",
                 "images": [
                   {
                     "id": "a5286e81-0a1c-4637-9012-3bf746e56437",
@@ -1950,7 +2190,107 @@
       },
       "property": {
         "name": "가평 아레나 X 클럽보드리조트",
-        "images": [ ],
+        "images": [
+          {
+            "id": "be4fbba7-5df9-499b-86fd-5757a95a79c4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/property_thumbnail/1778484338246-sjkxd0ljl2.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_thumbnail"
+          },
+          {
+            "id": "03cd1267-2ef2-4a2c-a64c-26db8ce84b79",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/property_exterior/1778484338149-3358by1av1.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "372b7c65-a9b0-47b9-81f9-9cbfbb120f37",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/property_exterior/1778484338175-pzpo99edzg.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "2b33880d-9b40-49b9-8a31-c669ff81d637",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/property_exterior/1778484338245-y2u69pkrn7.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "c637ac3c-b107-4147-ae2a-53863321d88a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/property_exterior/1778484338252-4r23uut0lk.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "c3ba79d4-108c-4f5e-ae1f-d00a176b59fd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/property_exterior/1778484338355-yzos1vbjre.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "9ca36585-c50d-4213-bf55-4824e794719b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/property_exterior/1778484338247-6s74560knu.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "78b19928-b8c0-4e98-81a1-71983971062b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/property_exterior/1778484338247-r3bfezbzom.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "44284014-b137-4ef4-bc84-d7c78d4498a0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/property_exterior/1778484338362-fudtreusv8.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "bf05231f-216b-4a7b-9596-e95f8360010d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/property_exterior/1778484338347-l0zdnj8fgi.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          },
+          {
+            "id": "dafbe4f8-2bc0-4b4a-9976-70f655ec4ee3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/ca5b49eb-3f07-4906-a536-5abc9600a52e/property_exterior/1778484338359-a8t1as4a13.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null,
+            "category": "property_exterior"
+          }
+        ],
         "nameEn": "Gapyeong Club Board Resort"
       },
       "roomtypes": [
