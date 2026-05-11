@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-05-11T08:09:42.224161995Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-05-11T08:14:51.913335941Z",
     "templateType": "full_banner_wipe",
     "propertyId": "91cce127-6afe-4a27-98fa-6568d7277862",
     "homepageId": "ca5b49eb-3f07-4906-a536-5abc9600a52e"
@@ -2198,7 +2198,398 @@
             }
           ]
         },
-        "room": [ ],
+        "room": [
+          {
+            "id": "32d7b7ec-127e-46ff-a61b-77ff1ae0c673",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "db468ab4-f102-4709-a3d9-80fa3da7a8f5",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "11275a2d-4d7c-4a6f-83e1-abe4cabbb6b4",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "0382145f-ce03-40a0-a344-51fbe7869c09",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "d5d36bf7-3624-4fc9-90ae-48c5a6553853",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "7b5a89c0-fbdf-401c-bba1-d4e5cafbe7c8",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "b94d1bd9-8ac8-4a7f-9637-d0a6356cb054",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "00285e93-da63-49a9-955d-3f6377bf7e79",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "f47c910e-8b1c-485c-9048-59033bc8b6e0",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "60ac2fa5-2370-43a7-9988-e4acf10674df",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "f490bed6-60ae-4e96-bb9b-19ff1f51e4ea",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "b5f8ed27-ecfa-4834-89f5-effc6103f99a",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "37fdacd6-f000-473a-a4c9-fe7c96c7055d",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "c5029bbf-314f-43ae-8bc7-2a3e66d73848",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "d8efb8f8-926e-4da3-9106-e0cb94568a57",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "56ee0dbf-427b-49cd-9e2b-dbec33bb9c47",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "10f29f67-0582-4d85-b4a4-ece18c77c904",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "24370ff2-4e99-4a77-bdbf-7f22b35b53ef",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "8277021e-7d48-41c0-88cc-4fcaef256ff8",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "59cebb14-77c2-476e-a03e-6876d31ab000",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "817fcd7e-cad1-4aff-8991-1e8a345e80cb",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "0717b48d-e3a6-47d0-80f2-1f435cf36139",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "b0575a4a-783d-48b9-80e3-f94e99556df3",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "443e9098-e91b-4c78-9731-800542764183",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "8321ed2f-fe19-4c03-917a-52e67940cfe2",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "f94bebd0-2d37-4635-957e-b30cf1c8cd13",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
+                  "images": [ ]
+                }
+              }
+            ]
+          }
+        ],
         "facility": [ ],
         "reservation": {
           "sections": [
